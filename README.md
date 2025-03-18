@@ -18,5 +18,5 @@ Este projeto foi desenvolvido como parte de um desafio prático na **Rocketseat*
 
 ## 🛠️ Tecnologias Utilizadas
 
-- .NET 8 API Core (sem banco de dados, apenas rotas)
+- ASP.NET Core Web API 8 (sem banco de dados, apenas rotas)
 
